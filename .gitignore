@@ -1,0 +1,46 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# YOLO / AI Training
+# ========================
+train_AI/runs/
+*.pt
+*.onnx
+*.engine
+
+# ========================
+# Datasets (BIG & LICENSED)
+# ========================
+dataset/Manga109/
+dataset/List_Of_Images/
+dataset/List_Of_Labels/**/train/
+
+# ========================
+# Output / Debug
+# ========================
+out.jpg
+*.png
+*.log
+
+# ========================
+# OS / Editor
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
