@@ -1,0 +1,16 @@
+path: D:/AI_FOR_SCREEN_TRANSLATING/dataset
+
+train:
+  images: Manga109/Manga109_released_2023_12_07/images/ARMS
+  labels: List_Of_Labels/ARMS/train
+
+val:
+  images: Manga109/Manga109_released_2023_12_07/images/ARMS
+  labels: List_Of_Labels/ARMS/train
+
+nc: 4
+names:
+  - body
+  - face
+  - frame
+  - text
