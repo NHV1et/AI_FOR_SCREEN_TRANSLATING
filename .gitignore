@@ -131,10 +131,16 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+env_for_manga_OCR
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# Virtual environments
+env_for_manga_OCR/
+
+# Dataset (raw data)
+dataset/
 
 # Rope project settings
 .ropeproject
