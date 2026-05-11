@@ -1,0 +1,8 @@
+epochs: 60 # Xem chat luong the nao da 
+imgsz: 1024
+batch: 6
+device: 0 # Neu dung duoc GPU colab thi doi, con mac dinh CPU thi 0
+optimizer: AdamW
+lr0: 0.001
+workers: 4
+close_mosaic: 10
