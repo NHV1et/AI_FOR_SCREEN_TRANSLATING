@@ -142,6 +142,7 @@ env_for_manga_OCR/
 # Dataset (raw data)
 dataset/
 
+work_flow/train_AI/
 # Rope project settings
 .ropeproject
 
